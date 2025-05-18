@@ -22,8 +22,7 @@ First, clone the repository to your local machine using the following command:
 
 `git clone https://github.com/Maithanhceu/techtonica_assignments-/tree/795edb210b8481d42ca8ea2476525854662ee47b/mai_blog/client/src`
 
-
-# Install Dependencies and Run the Server:
+## Install Dependencies and Run the Server:
 Navigate to the project directory and install the required dependencies, then start the development server using the following commands:
 
 `npm install`
@@ -33,11 +32,11 @@ Navigate to the project directory and install the required dependencies, then st
 
 ![A Presentation of the interface of my homescreen will appear](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVwc3FrOW1hd3hhODV2cWNxdDBjY3h4cWhhYTJ1aHM2eWd3dXFwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/spnLzo8zT0pPt4okzC/giphy.gif)
 
-# You can get translated text: 
+## You can get translated text: 
 ![User selecting a language to translate the blog content](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHE0ZHFscGtxM2p2M3Q5NmloYWFuNWdmNmR5bGQ4a2U0OXp2eDZldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UscwE2pl6Up111gsNT/giphy.gif)
 
 
-# You can add a blog entry: 
+## You can add a blog entry: 
 ![User adding a test blog on the screen](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxlcWN4MGg1bTh4a3preTRlMWJqM2F0d2gybmdteDVvemJmZnFsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PioDnKMFoAJClgIHmC/giphy.gif)
 
 
